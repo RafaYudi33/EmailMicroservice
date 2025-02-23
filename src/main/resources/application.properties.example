@@ -1,0 +1,2 @@
+spring.application.name=emailService
+aws.sqs.queue.url=https:yourSQSqueue
