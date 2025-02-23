@@ -2,7 +2,6 @@
 
 <div align="center">
   <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" alt="java">
-  <img src="https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white" alt="spring">
   <img src="https://img.shields.io/badge/AWS%20Lambda-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS Lambda">
   <img src="https://img.shields.io/badge/AWS%20SQS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS SQS">
   <img src="https://img.shields.io/badge/AWS%20SES-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS SES">
@@ -86,7 +85,6 @@ aws lambda update-function-code --function-name EmailMicroserviceLambda --zip-fi
 
 To enhance the application's functionality, the following external libraries were used:
 
-- **Spring Boot**: Main framework for application development.
 - **AWS SDK for Java**: Integration with **AWS Lambda, SQS, and SES**.
 
 ---
